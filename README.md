@@ -12,7 +12,7 @@ For the official Go project, please visit [https://github.com/golang/go](https:/
 
 DF Machine is based on the Go programming language, which is licensed under a BSD-style license. See the [LICENSE](LICENSE) file for the full terms governing the original code.
 
-Modifications made specifically for DF Machine (Copyright 2025 Gordon.H | Deepfield ML) are also released under the same BSD-style license.
+Modifications made specifically for DF Machine (Copyright 2025 Gordon.H | Deepfield ML) are released under Apache License 2.0.
 ![Gopher image](https://golang.org/doc/gopher/fiveyears.jpg)
 *Gopher image by [Renee French][rf], licensed under [Creative Commons 4.0 Attribution license][cc4-by].*
 
